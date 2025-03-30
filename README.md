@@ -30,7 +30,7 @@ I am a passionate DevOps Engineer with expertise in cloud infrastructure, automa
 📊 **[Monitoring Stack](#)** – Centralized logging and monitoring system with Prometheus, Grafana, and Loki.  
 
 📫 **Connect with Me**  
-📧 Email: abhradip@example.com  
-🌐 [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
+📧 Email: abhradippaulwork@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/abhradip-paul/) | [Twitter](#) | [Portfolio](#)  
 
 ---
