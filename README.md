@@ -9,16 +9,13 @@ I am a passionate DevOps Engineer with expertise in cloud infrastructure, automa
 
 📜 **Certifications**  
 - ✅ **Red Hat Certified System Administrator (RHCSA)**  
-![red-hat-certified-system-administrator-rhcsa (1)](https://github.com/user-attachments/assets/cc7312ee-ffa4-4a9e-8835-1c9ed94bad89)
-
 
 - ✅ **Red Hat Certified Specialist in Containers and Kubernetes (RHCCA)**  
-![red-hat-certified-specialist-in-containers (2)](https://github.com/user-attachments/assets/60436867-206f-452a-b40d-659bffd8f7b5)
-
 
 - ✅ **Certified Kubernetes Administrator (CKA)**  
-![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/9796c142-7286-4b23-b5e1-f320fb68cda2)
 
+
+![red-hat-certified-system-administrator-rhcsa (1)](https://github.com/user-attachments/assets/cc7312ee-ffa4-4a9e-8835-1c9ed94bad89) ![red-hat-certified-specialist-in-containers (2)](https://github.com/user-attachments/assets/60436867-206f-452a-b40d-659bffd8f7b5) ![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/9796c142-7286-4b23-b5e1-f320fb68cda2)
 
 
 🛠️ **Tech Stack & Skills**  
