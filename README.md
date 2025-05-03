@@ -2,7 +2,7 @@
 ---
 
 ### 🚀 **Abhradip Paul** | DevOps Engineer  
-💻 **RHCSA | RHCCA | CKA** | Cloud | Kubernetes | Automation  
+💻 **RHCSA | RHCCA | CKA | RHCOA** | Cloud | Kubernetes | Automation  
 
 🌟 **About Me**  
 I am a passionate DevOps Engineer with expertise in cloud infrastructure, automation, and container orchestration. With hands-on experience in **Kubernetes**, **Linux**, **CI/CD**, and **Infrastructure as Code (IaC)**, I aim to streamline deployment processes and optimize system performance.
