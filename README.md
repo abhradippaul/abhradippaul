@@ -5,7 +5,7 @@
 💻 **RHCSA | RHCCA | CKA | RHCOA | SAA | HCTA** | Cloud | Kubernetes | Automation  
 
 🌟 **About Me**  
-I am a passionate DevOps Engineer with expertise in cloud infrastructure, automation, and container orchestration. With hands-on experience in **Kubernetes**, **Linux**, **CI/CD**, and **Infrastructure as Code (IaC)**, I aim to streamline deployment processes and optimize system performance.
+**Linux Administrator** with 1 year of hands-on experience in real-world environments, focusing on system management and troubleshooting. Previously involved in **full-stack web development** projects, bringing a well-rounded technical background. Currently expanding expertise in **CI/CD pipelines, Kubernetes, OpenShift, cloud infrastructure, and Infrastructure as Code (IaC)** to align with modern **DevOps** practices.
 
 📜 **Certifications**  
 - ✅ **Red Hat Certified System Administrator (RHCSA)**  
