@@ -2,7 +2,7 @@
 ---
 
 ### 🚀 **Abhradip Paul** | DevOps Engineer  
-💻 **RHCSA | RHCCA | CKA | RHCOA** | Cloud | Kubernetes | Automation  
+💻 **RHCSA | RHCCA | CKA | RHCOA | SAA | HCTA** | Cloud | Kubernetes | Automation  
 
 🌟 **About Me**  
 I am a passionate DevOps Engineer with expertise in cloud infrastructure, automation, and container orchestration. With hands-on experience in **Kubernetes**, **Linux**, **CI/CD**, and **Infrastructure as Code (IaC)**, I aim to streamline deployment processes and optimize system performance.
@@ -14,10 +14,17 @@ I am a passionate DevOps Engineer with expertise in cloud infrastructure, automa
 
 - ✅ **Certified Kubernetes Administrator (CKA)**
 
-- ✅ **Red Hat Certified OpenShift Administrator (RHCOA)**  
+- ✅ **Red Hat Certified OpenShift Administrator (RHCOA)**
+
+- ✅ **Hashicorp Terraform Associate (HCTA0-003)**
+
+- ✅ **AWS Solutions Architect Associate (SAA)**  
 
 
-![red-hat-certified-system-administrator-rhcsa (1)](https://github.com/user-attachments/assets/cc7312ee-ffa4-4a9e-8835-1c9ed94bad89) ![red-hat-certified-specialist-in-containers (2)](https://github.com/user-attachments/assets/60436867-206f-452a-b40d-659bffd8f7b5) ![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/9796c142-7286-4b23-b5e1-f320fb68cda2) ![red-hat-certified-openshift-administrator (1)](https://github.com/user-attachments/assets/e1fbf4cc-6ba1-413f-bec3-72f70866db43)
+![red-hat-certified-system-administrator-rhcsa (1)](https://github.com/user-attachments/assets/cc7312ee-ffa4-4a9e-8835-1c9ed94bad89) ![red-hat-certified-specialist-in-containers (2)](https://github.com/user-attachments/assets/60436867-206f-452a-b40d-659bffd8f7b5) ![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/9796c142-7286-4b23-b5e1-f320fb68cda2) ![red-hat-certified-openshift-administrator (1)](https://github.com/user-attachments/assets/e1fbf4cc-6ba1-413f-bec3-72f70866db43)<img width="120" height="120" alt="hashicorp-certified-terraform-associate-003 (1)" src="https://github.com/user-attachments/assets/839374d2-754b-45c5-87a1-aaee8344dbfd" />
+<img width="120" height="120" alt="aws-certified-solutions-architect-associate (2)" src="https://github.com/user-attachments/assets/973a1f45-c1e7-40eb-95e7-07de32055d25" />
+
+
 
 
 
