@@ -5,7 +5,7 @@
 💻 **RHCSA | RHCCA | CKA | RHCOA | SAA | HCTA** | Cloud | Kubernetes | Ansible | Python | Automation  
 
 🌟 **About Me**  
-**Linux Administrator, AWS, Kubernetes, with one year of hands-on experience in real-world environments, specializing in system management, provisioning, and troubleshooting. Previously engaged in full-stack web development projects, which has provided a well-rounded technical background. Currently expanding expertise in CI/CD pipelines, ArgoCD, Git/GitHub, Python, Ansible, Kubernetes, OpenShift, cloud infrastructure, and Infrastructure as Code (IaC) to align with modern DevOps practices.
+**Linux Administrator, AWS, Kubernetes, with one year of hands-on experience in real-world environments, specializing in system management, provisioning, and troubleshooting. Previously engaged in full-stack web development projects, which has provided a well-rounded technical background. Currently expanding expertise in CI/CD pipelines, ArgoCD, Git/GitHub, Python, Ansible, Kubernetes, OpenShift, cloud infrastructure, and Infrastructure as Code (IaC) to align with modern DevOps practices.**
 
 📜 **Certifications**  
 - ✅ **Red Hat Certified System Administrator (RHCSA)**  
